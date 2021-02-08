@@ -2,3 +2,4 @@
 /x86
 /.vs
 *.dll
+/Release
